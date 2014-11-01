@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sudoku_background">#ffffff</color>
+    <color name="sudoku_hilite">#ffffffff</color>
+    <color name="sudoku_light">#BEBEBE</color>
+    <color name="sudoku_dark">#3C3C3C</color>
+</resources>
